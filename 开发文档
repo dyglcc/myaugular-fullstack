@@ -1,0 +1,2 @@
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx9dca8a592d9c2e21&secret=607efc8cc68a81af43ee13cee9ec3863
+获取token接口
